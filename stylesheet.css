@@ -1,0 +1,173 @@
+
+
+.mainTitle{
+	padding-top: 10%;
+}
+
+.main-title{
+	font-family: 'Merriweather', serif !important;
+}
+
+.centered{
+	text-align: center;
+}
+.left{
+	float: left;
+}
+.right{
+	float:right;
+}
+
+
+/* HEADER & NAVIGATION STYLES */
+.header h1{
+	text-align: center;
+}
+
+.header ul{
+	width: 100%;
+	margin: 0px;
+	position: relative;
+	/* padding-top: .5em; */
+	/* padding-bottom: .5em; */
+	background-color: #1e57c8;
+	list-style-type: none;
+	text-align: left;
+}
+.header li:hover{
+	background-color: #ed7d31;
+	cursor: pointer;
+
+}
+
+.footer{
+	background-color: #1e57c8;
+	border: none;
+	margin-top: 1em;
+	margin-left: 0px;
+	margin-right: 0px;
+	position: relative;
+	bottom: 0;
+}
+
+.footer-text{
+	color: white;
+}
+.footer-text a{
+	color: white;
+}
+
+.footer-content{
+	padding: 2em;
+}
+
+.footer-text a:hover{
+	text-decoration: underline;
+}
+
+#badge-footer {
+	background-color: #fff;
+}
+
+#badge-footer .footer-content {
+	padding: 0;
+}
+
+ul.nav li.dropdown:hover > div.dropdown-menu {
+    display: block;
+		background-color: #fff;
+		/* color: #1e57c8; */
+		margin: 0px;
+}
+
+.nav-pills .nav-link.active, .nav-item.active, .nav-pills .show>.nav-link {
+	background-color: #ed7d31;
+	margin: 0px;
+
+}
+
+
+.header li {
+	padding: 0.5em;
+	margin: 0px;
+	display: inline;
+}
+
+
+.header li a{
+	display: inline;
+	color: white;
+	text-decoration: none;
+	/* text-transform: uppercase; */
+}
+
+.header li a.dropdown-item{
+	display: block;
+	color: #1e57c8;
+	text-decoration: none;
+}
+
+.header li a.dropdown-item:hover{
+	display: block;
+	color: white;
+	background-color: #ed7d31;
+	text-decoration: none;
+}
+
+
+.header ul li #triangle{
+	height: 0;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border-top: 37px solid transparent;
+	border-right: 74px solid white;
+	border-bottom: 37px solid transparent;
+}
+
+/* BUTTON STYLES */
+.btn-primary {
+	background-color: #1e57c8;
+	border-color: #1e57c8;
+	border-radius: 0px;
+}
+
+.btn-primary:hover {
+	background-color: #ed7d31;
+	border-color: #ed7d31;
+	border-radius: 0px;
+}
+
+/* COMPONENT STYLES */
+a{
+	color: #1e57c8;
+}
+
+/* PERSONA DOC STYLES  */
+.persona-border{
+	/* border-top: 3px; */
+	/* width: 96%; */
+	/* background-color: #4E81E4 !important; */
+	/* border: #000 !important;
+	border-color: #000 !important; */
+	/* color: #4E81E4 !important; */
+	padding: 3em;
+}
+
+.persona-input{
+	color: #1E57C8;
+	font-size: 15px;
+}
+
+.knowledge_block, .motivation_block, .attitude_block {
+	border:2px solid red;
+	border-radius:25px;
+	/* display: inline-block;
+    *display: inline; */
+
+	padding:1em;
+}
+
+.card {
+	margin-bottom:1rem;
+}

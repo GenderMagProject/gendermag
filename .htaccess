@@ -1,0 +1,11 @@
+DirectoryIndex index.php
+Redirect 301 /abi_persona.html /abi_persona.php
+Redirect 301 /customPersona.html /custom_persona.php
+Redirect 301 /flyers-handouts.html /flyers_handouts.php
+Redirect 301 /Foundations.html /foundations.php
+Redirect 301 /genderMag.html /gendermag.php
+Redirect 301 /gm_OSS.html /oss.php
+Redirect 301 /gm_research.html /research.php
+Redirect 301 /index.html /index.php
+Redirect 301 /people.html /people.php
+Redirect 301 /corporatetraining/index.html /corporatetraining/index.php

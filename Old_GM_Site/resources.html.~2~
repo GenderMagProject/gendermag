@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+	<!-- Resources and downloads page for the GenderMag project
+		Filename: resources.html
+	-->
+	<head>
+	
+		<title>GenderMag</title>
+		<!-- <link href="./images/favicon.ico" rel="icon" type="image/x-icon" /> If we ever want an icon-->
+		<link rel="stylesheet" href="styles.css"/>
+	
+	</head>
+	
+	
+	<body>
+    
+        <div id="title_bar">
+            <div id="logo">
+                <img id="logo_pic" src="/images/rsz_profile_pic.png" alt="The GenderMag Personas"></img>
+            </div>
+            <div id="title_text">The GenderMag Project</div>
+        </div>
+        
+        <div id="nav">
+            <ul id="menu-bar">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./resources.html">Resources</a></li>
+                <li><a href="./publications.html">Publications</a></li>
+                <li><a href="./news.html">News &amp; Events</a></li>
+                <li><a href="./people.html">People</a></li>
+                <span id="buttons">
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://www.facebook.com/The-GenderMag-Method-895221843925403/">
+                            <img class="social_img" src="/images/icon-facebook-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://twitter.com/GenderMag">
+                        <img class="social_img" src="/images/icon-twitter-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="mailto:burnett@eecs.oregonstate.edu">
+                        <img class="social_img" src="/images/icon-mail-1.png"></img>
+                        </a>
+                    </div>
+                </span>
+            </ul>
+        </div>
+		
+		<div id="body_text">
+			
+			<p>The GenderMag Method consists of a gender-specialized cognitive walkthrough and a set of four GenderMag personas.</p>
+            
+			<h3>GenderMag Resources</h3>
+            
+            <ul>
+                <li>Here is a <a href="./downloadables/genderMag-flyer.pdf">one-page flyer about GenderMag</a>.</li>
+                <li>See the <a href="http://video.itu.dk/video/12452077/open-lecture-is-your-software-2">GenderMag talk</a> at IT University of Copenhagen, presented November 2015. Other talks and papers about GenderMag can be found <a href="http://web.engr.oregonstate.edu/~burnett/reprints.html">here</a>.</li>
+                <li>Here's the <a href="https://docs.google.com/forms/d/1NXjpj7NSGuVScPdR9EJgzv-eeKM9-NOY4gP9B0Dpf4U/viewform?edit_requested=true">kit</a> for using the method (beta version). The latest version is July 2017.  (Or, <a HREF="mailto:burnett@eecs.oregonstate.edu?subject=obtain GenderMag">request that a copy be sent to you via email</a> (2 MB).)</li>
+                <ul>
+                    <li>Here are editable/customizable <a href="./downloadables/">personas and forms</a> in editable formats to use with the kit.</li>
+                </ul>
+                <li>The <a href="http://eusesconsortium.org/gender/GenderMagPersona-FoundationDocuments/Foundations.html">personas foundations document</a> is now available.  The latest version is Nov. 12, 2015.</li>
+            </ul>
+            
+            <h3>Related Resources</h3>
+            
+            <ul>
+                <li><a href="http://www.ncwit.org">National Center for Women in Technology (NCWIT)</a>: a great collection of resources on many aspects of gender and technology.</li>
+                <li><a href="http://eusesconsortium.org/gender/genderRelated.php">Gender HCI Publications Resource</a> for those interested in Gender HCI research.</li>
+                <li><a href="http://en.wikipedia.org/wiki/Gender_HCI">Wikipedia Entry</a> on Gender HCI.</li>
+            </ul>
+			
+		</div>
+		
+	</body>
+
+	
+</html>

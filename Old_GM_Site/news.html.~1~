@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html>
+	<!-- News and events page for the GenderMag project
+		Filename: news.html
+	-->
+	<head>
+	
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132750618-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-132750618-1');
+    </script>
+  
+		<title>GenderMag</title>
+		<!-- <link href="./images/favicon.ico" rel="icon" type="image/x-icon" /> If we ever want an icon-->
+		<link rel="stylesheet" href="styles.css"/>
+	
+	</head>
+	
+	
+	<body>
+    
+        <div id="title_bar">
+            <div id="logo">
+                <img id="logo_pic" src="/images/rsz_profile_pic.png" alt="The GenderMag Personas"></img>
+            </div>
+            <div id="title_text">The GenderMag Project</div>
+        </div>
+        
+        <div id="nav">
+            <ul id="menu-bar">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./resources.html">Resources</a></li>
+                <li><a href="./publications.html">Publications</a></li>
+                <li><a href="./news.html">News &amp; Events</a></li>
+                <li><a href="./people.html">People</a></li>
+                <span id="buttons">
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://www.facebook.com/The-GenderMag-Method-895221843925403/">
+                            <img class="social_img" src="/images/icon-facebook-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://twitter.com/GenderMag">
+                        <img class="social_img" src="/images/icon-twitter-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="mailto:burnett@eecs.oregonstate.edu">
+                        <img class="social_img" src="/images/icon-mail-1.png"></img>
+                        </a>
+                    </div>
+                </span>
+            </ul>
+        </div>
+		
+		<div id="body_text">
+			
+			<h3>News</h3>
+			
+			<ul>
+
+				<li>Nov 2014: The GenderMag kit (Beta Version) is available to analyze your problem-solving software for gender issues.  If you want to try it, contact  <a href="mailto:burnett@eecs.oregonstate.edu">Margaret Burnett</a>.</li>
+
+				<li>Feb 2012: Margaret Burnett is an <a href="http://www.dsp.acm.org/">ACM Distinguished Speaker</a> now. If you want to have her give a <a href="http://www.dsp.acm.org/view_lecturer.cfm?lecturer_id=3543#lecturer_id%23">talk on gender HCI</a>, ACM will pay for her airfare to do so.</li>
+
+				<li>Sept. 2007: An AP story on Laura Beckwith's, Margaret Burnett's, and Susan Wiedenbeck's Gender HCI work was picked up by numerous news feeds.</li>
+
+				<ul>
+
+					<li><a href="http://technews.acm.org/archives.cfm?fo=2007-09-sep/sep-24-2007.html#329838">ACM Tech News</a> <small>[<a href="http://eusesconsortium.org/docs/acmtechnews.pdf">local copy</a>]</small></li>
+					
+					<li><a href="http://eusesconsortium.org/docs/chicagotribune.pdf">Chicago Tribune Local Copy</li>
+					
+					<li><a href="http://eusesconsortium.org/docs/cnnmoney.pdf">CNN Money Local Copy</a></li>
+					
+					<li><a href="http://eusesconsortium.org/docs/forbes.pdf">Forbes Local Copy</a></li>
+	
+					<li><a href="http://www.msnbc.msn.com/id/20952802/">MSNBC</a> <small>[<a href="http://eusesconsortium.org/docs/msnbc.pdf">local copy</a>]</small></li>
+					
+					<li><a href="http://eusesconsortium.org/docs/time.pdf">Time Local Copy</a></small></li>
+	
+					<li><a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/09/23/AR2007092300294.html">The Washington Post</a> <small>[<a href="http://eusesconsortium.org/docs/washingtonpost.pdf">local copy</a>]</small></li>
+
+					<li><a href="http://www.usatoday.com/tech/science/mathscience/2007-09-23-computer-science-gender-gap_N.htm">USA Today</a> <small>[<a href="http://eusesconsortium.org/docs/usatoday.pdf">local copy</a>]</small></li>
+					
+				</ul>
+				
+			</ul>
+			
+			
+			<h3>Talks</h3>
+			
+			<p> Here are some talks on this subject, with publically available abstracts and/or videos.</p>
+			
+			<ul>
+			
+				<li>Margaret Burnett's <a href="https://youtu.be/Sj3MkCWwllc">GenderMag talk</a> ITU Copenhagen is now available on youtube. This talk was presented in November 2015, and represents the latest version of GenderMag.</li>
+				
+				<li>See the <a href="https://www.youtube.com/watch?v=uhOBd34q2kM)">Google Tech Talk about GenderMag</a> (presented May 11, 2015).</li>
+
+				<li>Here is a <a href="http://www.interaction-design.org/encyclopedia/end-user_development.html">handful of mini-interviews done in Rome, June 2011</a>, with Margaret Burnett and <a href="http://web.engr.oregonstate.edu/~cscaffid/">Chris Scaffidi</a> for our new encyclopedia article, about End-User Programming, End-User Software Engineering, and Gender.</li>
+
+				<li>Margaret Burnett gave a <a href="http://icpc2011.cs.usask.ca/conf_site/Schedule.html">keynote at ICPC</a> late in June 2011 on this topic.</li>
+
+				<li>Margaret Burnett gave a <a href="http://www.ppig.org/workshops/ppig-2010-22nd-annual-workshop/programme">keynote at PPIG 2010</a> early in September 2010 on this topic.</li>
+
+				<li>Here is a June 2009 <a href="http://channel9.msdn.com/shows/WM_IN/Margaret-Burnett-Gender-and-Software/">Microsoft Channel 9 interview on Gender and Software</a> with Margaret Burnett.</li>
+
+				<li>Laura Beckwith and Margaret Burnett gave a talk in September 2006 summarizing the findings at that time, at <a href="http://web.engr.oregonstate.edu/~burnett/MicrosoftResearchCambridge-2006talk/talk.htm">Microsoft Research Cambridge, on gender issues in end-user programming</a>.</li> 
+
+			</ul>
+
+			
+		</div>
+		
+	</body>
+
+	
+</html>

@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>GenderMag Editable/Customizable Downloads</title>
+<link rel="stylesheet" href="../styles.css"/>
+	
+</head>
+	
+<body>
+    
+        <div id="title_bar">
+            <div id="logo">
+                <img id="logo_pic" src="../images/rsz_profile_pic.png" alt="The GenderMag Personas"></img>
+            </div>
+            <div id="title_text">The GenderMag Project</div>
+        </div>
+        
+        <div id="nav">
+            <ul id="menu-bar">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../resources.html">Resources</a></li>
+                <li><a href="../publications.html">Publications</a></li>
+                <li><a href="../news.html">News &amp; Events</a></li>
+                <li><a href="../people.html">People</a></li>
+                <span id="buttons">
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://www.facebook.com/The-GenderMag-Method-895221843925403/">
+                            <img class="social_img" src="../images/icon-facebook-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://twitter.com/GenderMag">
+                        <img class="social_img" src="../images/icon-twitter-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="mailto:burnett@eecs.oregonstate.edu">
+                        <img class="social_img" src="../images/icon-mail-1.png"></img>
+                        </a>
+                    </div>
+                </span>
+            </ul>
+        </div>
+
+
+
+<h1>GenderMag Editable/Customizable Downloads</h1>
+<p>Customizable personas:
+<ul>
+  <li><a href="http://gendermag.org/abi_persona.html">Online Customizable Abi persona</a></li>
+  <li><a href="Editable-Personas+Forms/CustomizablePersonas/AbbyPersona-electronicallyCustomizable.pdf">Customizable Abby persona</a>. Note: Not editable using most browser displays; instead, actually download and then open in pdf reading/editing software such as Preview or Acrobat.</li>
+  <li><a href="Editable-Personas+Forms/CustomizablePersonas/PatriciaPersona-electronicallyCustomizable.pdf">Customizable Patricia persona</a>. See note above.</li>
+  <li><a href="Editable-Personas+Forms/CustomizablePersonas/PatrickPersona-electronicallyCustomizable.pdf">Customizable Patrick persona</a>. See note above.</li>
+  <li><a href="Editable-Personas+Forms/CustomizablePersonas/TimPersona-electronicallyCustomizable.pdf">Customizable Tim persona</a>. See note above.</li>
+</ul>
+</p>
+<p><a href="Editable-Personas+Forms/GenderMag-kit-forms.docx">Editable forms</a></p>
+</body>
+</html>

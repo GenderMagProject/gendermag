@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html>
+	<!-- Home page for GenderMag.org
+		Filename: homePage.html (Note: will merge with index.html when finished.)
+	-->
+	<head>
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132750618-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-132750618-1');
+        </script>
+	
+		<title>GenderMag</title>
+		<!-- <link href="./images/favicon.ico" rel="icon" type="image/x-icon" /> If we ever want an icon-->
+		<link rel="stylesheet" href="styles.css"/>
+	
+	</head>
+	
+	<body>
+    
+        <div id="title_bar">
+            <div id="logo">
+                <img id="logo_pic" src="/images/rsz_profile_pic.png" alt="The GenderMag Personas"></img>
+            </div>
+            <div id="title_text">The GenderMag Project</div>
+        </div>
+        
+        <div id="nav">
+            <ul id="menu-bar">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./resources.html">Resources</a></li>
+                <li><a href="./publications.html">Publications</a></li>
+                <li><a href="./news.html">News &amp; Events</a></li>
+                <li><a href="./people.html">People</a></li>
+                <span id="buttons">
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://www.facebook.com/The-GenderMag-Method-895221843925403/">
+                            <img class="social_img" src="/images/icon-facebook-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="https://twitter.com/GenderMag">
+                        <img class="social_img" src="/images/icon-twitter-1.png"></img>
+                        </a>
+                    </div>
+                    <div class="social_button">
+                        <a class="social_button_link" href="mailto:burnett@eecs.oregonstate.edu">
+                        <img class="social_img" src="/images/icon-mail-1.png"></img>
+                        </a>
+                    </div>
+                </span>
+            </ul>
+        </div>
+        
+        <br/>
+        
+        <div id="update" class="body_text">
+            <h2>Update: Introducing the GenderMag-Teach Wiki (beta)</h2>
+            <p>Given recent interest in teaching the GenderMag Method in all kinds of software-related classes, we're developing an online community for educators to access information and materials about teaching GenderMag. Find the GenderMag-Teach wiki live at <a href="https://sites.google.com/site/gendermagteach/">https://sites.google.com/site/gendermagteach/</a>.
+            <h2><b><font color=red>New! </font></b>Update: GenderMag Recorder's Assistant now available on the Google Chrome Web Store </h2> 
+            <p>The GenderMag Recorder's Assistant, which semi-automates GenderMag, is now available on the Google Chrome Web Store
+(for free): <a href="https://chrome.google.com/webstore/detail/gendermag-recorders-assis/efacfbjnfhfaplaglplaljdleimiiflf" >https://chrome.google.com/webstore/detail/gendermag-recorders-assis/efacfbjnfhfaplaglplaljdleimiiflf</a></p>   
+            <h2>Update: Introducing the GenderMag Recorder's Assistant Open Source tool</h2>
+	    <p>The GenderMag Recorder's Assistant semi-automates GenderMag.  If you want to use it at this early stage, or want to contribute to it on Open Source, follow this link: <a href=" https://github.com/mendezc1/GenderMagRecordersAssistant">https://github.com/mendezc1/GenderMagRecordersAssistant/ </a>
+
+</p>
+
+        </div>
+		
+		<div class="body_text">
+			
+			<p>Although gender differences in a technological world receive significant research attention, much of this research and practice aims at how society and education can impact the success and retention of women in computer science. The possibility of gender biases <i>within</i> software, however, has received almost no attention. We hypothesize that the human problem-solving styles supported by software have strong gender biases, and further that addressing these gender biases can help problem solvers of any gender. Evidence from other fields and investigations in our own have significant evidence supporting this hypothesis.</p>
+			<p>We are investigating gender biases in people's problem-solving experiences with software. We term this research topic "gender HCI" to reflect its focus on human-computer interaction (HCI) properties that take gender differences into account in the design of software. 
+			
+
+<h2>The GenderMag Method</h2>  
+  <p>The GenderMag Method consists of a gender-specialized cognitive walkthrough and a set of GenderMag personas that focus on five cognitive factors in problem-solving styles.</p>
+            
+  <h3>How GenderMag Works</h3>
+<p>Do steps 1-2 then repeat steps 3a-3e, as in this figure, until the scenario is finished (for more details, download the kit):
+</p>
+<center><IMG src="images/howGenderMagWorks.png" height="600"></center>
+
+  <h3>GenderMag Links and Downloads</h3>
+            
+            <ul>
+                <li id="kit">The <a href="https://docs.google.com/forms/d/1NXjpj7NSGuVScPdR9EJgzv-eeKM9-NOY4gP9B0Dpf4U/viewform?edit_requested=true">kit</a> for using the method (beta version). The latest version is June 28, 2018.  (Or, <a HREF="mailto:burnett@eecs.oregonstate.edu?subject=obtain GenderMag">request that a copy be sent to you via email</a> (6 MB).)</li>
+                <ul>
+                    <li>The <a href="./downloadables/">personas and forms</a> in editable format to use with the kit.</li>
+                </ul></li>
+	        <li><a href="GenderMag Demonstration.mp4">Video demo</a> of a GenderMag session (about 5 minutes).</li>
+                <li><a href="./downloadables/genderMag-flyer.pdf">One-page flyer about GenderMag</a>.</li>
+		<li>New! <a href="./downloadables/GM-Heuristics-2018-0704.pdf">GenderMag Heuristics (Beta version)</a> for use in Heuristic-Evaluation-style design processes</li>
+		<li>Margaret Burnett's <a href="https://www.youtube.com/watch?v=z6NUbguJTak&index=14&list=PLeMUfrwZ5THp_sYBgXZCl1pC5rQL_4Y2j">Distinguished Professor Lecture on Gender-Inclusive Software and GenderMag</a> from May 2016 (55 minutes). This is the most up-to-date GenderMag presentation. (The actual talk starts around 3 minutes 45 seconds in.)</li>
+		<li>The <a href="https://www.youtube.com/watch?v=6HYvp5GrPjU">GenderMag field study talk presented at CHI'16</a> (20 minutes). The paper won a Best Paper Honorable Mention at CHI.</li>
+                <li>The <a href="Foundations.html" target="_blank" >personas foundations document</a>.  The latest version is Sept. 12, 2017.</li>
+            </ul>
+		
+		</div>
+	</body>
+
+	
+</html>
