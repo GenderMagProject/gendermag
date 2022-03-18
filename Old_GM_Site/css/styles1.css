@@ -81,4 +81,9 @@ ul {
 	text-align:center;
 	font-weight:bold;
 }
+
+.border {
+ border-style:solid;
+ border-color:#287EC7;
+}
 	

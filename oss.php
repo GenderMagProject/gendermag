@@ -14,7 +14,7 @@
                         <a class="nav-link" id="GM-OSS-participants-tab" data-toggle="tab" href="#gm-oss-participants" role="tab" aria-controls="OSS-part" aria-selected="false">Participants</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="GM-OSS-publications-tab" data-toggle="tab" href="#gm-oss-publications" role="tab" aria-controls="OSS-pub" aria-selected="false">Publications</a>
+                        <a class="nav-link" id="GM-OSS-publications-tab" data-toggle="tab" href="#gm-oss-publications" role="tab" aria-controls="OSS-pub" aria-selected="false" >Publications</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="GM-OSS-media-tab" data-toggle="tab" href="#gm-oss-media" role="tab" aria-controls="OSS-media" aria-selected="false">Media/News</a>
@@ -161,8 +161,9 @@
                     <div class="tab-pane fade" id="gm-oss-publications" role="tabpanel" aria-labelledby="GM-OSS-publications-tab"><br />
                         <div class="col-md-12">
                             <h3>Publications</h3>
+                            <p>For GenderMag Publications, visit the <a href="http://gendermag.org/research.php">Research Publications<a> page.
                             <hr/>
-                            <table class="table">
+                            <!-- <table class="table">
                                 <thead class="thead-dark">
                                   <tr>
                                     <th scope="col">Papers/Links</th>
@@ -190,7 +191,7 @@
                                 </tr>
 
                               </tbody>
-                            </table>
+                            </table> -->
 
                         </div>
                     </div>

@@ -11,7 +11,7 @@
           <h5 class="card-header uppercase">How to Get Started</h5>
           <div class="card-body">
             <p class="card-text">We can come to your site to run training workshops for your company.  We can also offer individual support and virtual training sessions.</p>
-            <h6>To set up a training session email us at <a href="gendermag.method@gmail.com">gendermag.method@gmail.com</a></h6>  
+            <h6>To set up a training session email us at <a href="mailto:gendermag.method@gmail.com">gendermag.method@gmail.com</a></h6>  
           </p>
           </div>
         </div>

@@ -9,20 +9,27 @@
 	<h3>Flyers</h3>
 	<h5>GenderMag Flyer</h5>
 	<p>A two-page flyer that summarizes the method concisely. Often handed out during conferences and presentations. </p>
-	<a href="./Docs/GenderMagHandout-2019-0312.pdf" class="btn btn-primary uppercase">Download</a>
+	<a href="./Docs/GenderMagHandout-2021-0404.pdf" class="btn btn-primary uppercase">Download</a>
+  
 	<hr>
 	<h5>GenderMag Practices and Potential Pitfalls </h5>
 	<p>Flyer describing the Practices & Potential Pitfalls experienced when incorporating the GenderMag method into a development process. As found through research conducted with 10 real-worlds softare teams. </p>
 	<a href="./Docs/BP-Handout_v1.3.4.pdf" class="btn btn-primary uppercase">Download</a>
 	<hr>
-	<h5>GenderMag Heuristics</h5>
+	<h5>Cognitive Style Heuristics (from the GenderMag Project)</h5>
 	<p>Heuristics used to running a heuristic evaluation, focused on generating designs aimed towards inclusivity, with an emphasis on the cognitive facets seen in our personas. </p>
-	<a href="./Old_GM_Site/downloadables/GM-Heuristics-2018-0704.pdf" class="btn btn-primary uppercase">Download</a>
+	<a href="./Docs/Cognitive-Style-Heuristics-from-the-GenderMag-Project-2021-03-07-1537.pdf" class="btn btn-primary uppercase">Download</a>
 	<hr>
 	<h5>GenderMag Infographic</h5>
 	<p>Infographic showing the use of the GenderMag method throughout Oregon State University. </p>
 	<a href="./Docs/Infographic-190308.pdf" class="btn btn-primary uppercase">Download</a>
+<hr>
+  <h5>Facet Value Definitions</h5>
+	<p>Flyer explaining the five facets with definitions and examples. </p>
+	<a href="https://drive.google.com/file/d/1TrSXBp1-vrCeaEd3rhoBQzBfWyT2gXog/view?usp=sharing" class="btn btn-primary uppercase">Download</a>
 	
+
+
 	
       </div>
       

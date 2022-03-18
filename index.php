@@ -3,7 +3,6 @@
 
 <!-- page content starts here with the first two cards -->
 
-
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-4">
@@ -51,20 +50,30 @@
       <!-- END Card for News & Events -->     
     </div>
   </div>
+
+  
   <div class="row">
     <div class="col-md-4">
       <!-- Card for "Get Involved" -->
       <div class="card">
-        <h5 class="card-header uppercase">Get Involved</h5>
+        <h5 class="card-header uppercase">Open Source</h5>
         <div class="card-body">
-          <h5 class="card-title"><a href="https://github.com/mendezc1/GenderMagRecordersAssistant/">GM Tool (Open Source)</a></h5>
+          <h5 class="card-title"><a href="https://github.com/mendezc1/GenderMagRecordersAssistant/">Recorder's Assistant Tool</a></h5>
           <p class="card-text">The GenderMag Recorder's Assistant semi-automates the GenderMag Method.</p>
           <div class="row">
             <div class="col-md-6">
-              <h6>Try it out!</h6><a href="https://chrome.google.com/webstore/detail/gendermag-recorders-assis/efacfbjnfhfaplaglplaljdleimiiflf"><img src="images/ico-chrome.png" height="43.5" width="154.55"></a>
+              <h6>Chrome Extension</h6><a href="https://chrome.google.com/webstore/detail/gendermag-recorders-assis/efacfbjnfhfaplaglplaljdleimiiflf" class="btn btn-primary uppercase"><img src="images/ico-chromeicon..png" height="20" width="20">Try it out!</a>
             </div>
             <div class="col-md-6">
-              <h6>Work on it!</h6> <a href="https://github.com/mendezc1/GenderMagRecordersAssistant/" title="Contribute to Our tool"><img src="/images/ico-github.png" height="20" width="20"> Github Repo</a>
+              <h6>Github Repo</h6> <a href="https://github.com/mendezc1/GenderMagRecordersAssistant/" class="btn btn-primary uppercase" title="Contribute to Our tool"><img src="/images/ico-github.png" height="20" width="20"> Work on it!</a>
+            </div>
+          </div>
+          <br>
+          <h5 class="card-title"><a href="https://github.com/Amreeta-18/AID"> AID Tool</a></h5>
+            <p class="card-text">An automated detector for gender-inclusivity bugs in OSS project pages.</p>
+          <div class="row">
+            <div class="col-md-6">
+                <h6>Github Repo</h6> <a href="https://github.com/Amreeta-18/AID"  class="btn btn-primary uppercase"><img src="/images/ico-github.png" height="20" width="20"> Try it out!</a>
             </div>
           </div>
         </div>
@@ -91,36 +100,66 @@
         <div class="card">
           <h5 class="card-header uppercase">Support & Training</h5>
           <div class="card-body">
-            <p class="card-text">
-              Want to arrange a GenderMag training workshop at your company? We offer corporate training workshops in order to help software developers evaluate their software to make it more inclusive.
+            <!--p class="card-text"></p-->
+            <ul>
+              <li>
+                Part of Oregon State University (OSU)?
+                <h5>Check out our OSU-IT GenderMag website...</h5>
+                <a
+                  href="https://uit.oregonstate.edu/dot/gendermag"
+                  class="btn btn-primary uppercase"
+                  >OSU-IT Training</a
+                >
+              </li>
               <br>
-              Other forms of support for your company are also available.</p>
-            <h5 class="card-title">Learn more about our corporate training here...</h5>
-            <a href="http://gendermag.org/corporatetraining" class="btn btn-primary uppercase">Corporate Training</a>
+              <li>
+                Want to arrange a GenderMag training workshop at your company? We offer
+                corporate training workshops in order to help software developers evaluate
+                their software to make it more inclusive.
+                <br />
+                Other forms of support for your company are also available.
+                <h5 class="card-title">
+                  Learn more about our corporate training here...
+                </h5>
+                <a
+                  href="http://gendermag.org/corporatetraining"
+                  class="btn btn-primary uppercase"
+                  >Corporate Training</a
+                >
+              </li>
+            </ul>
           </div>
         </div>
         <!-- END Card for Corporate Training -->  
     </div>
-    <div class="col-md-4">
-    </div>
   </div>
-</div>
-
-
-<div class="row">
-  <div class="col-md-4">
+  <div class="row">
+    <div class="col-md-4">
     <!-- Card for Practices-->
     <div class="card">
       <h5 class="card-header uppercase">GenderMag Practices & Pitfalls</h5>
       <div class="card-body">
-        <p class="card-text">What are practices and potential pitfalls when using an inclusivity method like Gendermag?
-          <br /><br />See our<a href="./Docs/BP-Handout_v1.3.4.pdf"> Practices & Potential Pitfalls Handout</a> for more details.
+        <p class="card-text">What are practices and potential pitfalls when using an inclusivity method like Gendermag?See our handout below for more details.
+          <br /><br /><a href="./Docs/BP-Handout_v1.3.4.pdf" class="btn btn-primary uppercase"> Practices & Potential Pitfalls Handout</a> 
           <br /><br />Stay tuned! ICSE'20 paper to appear: "Engineering Gender-Inclusivity into Software: Ten Teams' Tales from the Trenches", C. Hilderbrand et al., 2020
         </p>
       </div>
     </div>
     <!-- END Card for Practices -->       
   </div>
+  <div class="col-md-4">
+    <!-- Card for Practices-->
+    <div class="card">
+      <h5 class="card-header uppercase">GenderMag Facets Survey</h5>
+      <div class="card-body">
+        <p class="card-text">A survey for measuring a person's GenderMag facet values relative to their peers.
+          <br /><br /><a href="./Docs/GM_Facet_Survey+key-2021-0311.docx" class="btn btn-primary uppercase"> Facets Survey</a> 
+        </p>
+      </div>
+    </div>
+    <!-- END Card for Practices -->       
+  </div>
+  
+  </div>
 </div>
-
 <?php include('footer.php'); ?>
