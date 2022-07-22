@@ -90,7 +90,8 @@
           </p>
           See our <a href="./Docs/gmteach-paper.pdf">2018 ICER paper</a> to learn more about the research behind it. <br><br>
           <h5 class="card-title">Become a part of our community...</h5>
-          <a href="https://sites.google.com/site/gendermagteach/" class="btn btn-primary uppercase">GenderMag Teach Wiki</a>
+          <a href="https://sites.google.com/site/gendermagteach/" class="btn btn-primary uppercase" style="margin-bottom:10px">GenderMag Teach Wiki (guidance)</a><br />
+          <a href="https://www.oercommons.org/groups/gendermag-inclusivemag/10149/" class="btn btn-primary uppercase">GenderMag OERCommons Repository (materials)</a>
         </div>
       </div>
       <!-- END Card for GenderMag Teach -->  

@@ -14,7 +14,7 @@
 	            	<img src="/images/multiAbby-2017-0911.png" alt="The GenderMag Personas" height="100" width="100"></img>
 								<p>Abi provides the strongest lens to find inclusiveness issues that disproportionately affect women users.  If you choose to use only one persona and your primary motivation is inclusiveness to women, Abi is probably the best first choice. Abi provides the strongest inclusivity lens out of the 3 personas.</p>
 								<br>
-								<a href="./customizer.php" class="btn btn-primary uppercase">Create using Online Form</a>
+								<a href="./customizer.php?persona=Abi" class="btn btn-primary uppercase">Create using Online Form</a>
 								<br />
 								<h5>OR</h5>
 								<a href="./Images/AbiFillable-2021-08.pdf" class="btn btn-primary uppercase">Download a fill-in PDF</a><br />
@@ -39,11 +39,11 @@
 								<img src="/images/multiPatrick-2017-0911.png" alt="The GenderMag Personas" height="100" width="100"></img>
 								<p>Pat touches (mostly) middle points in the facet ranges between Abi and Tim.   If you want a third persona for additional coverage of the facets, Pat is a good third choice after Tim.</p>
 								<br>
-								<a href="./customizer.php" class="btn btn-primary uppercase">Create using Online Form</a>
+								<a href="./customizer.php?persona=Pat" class="btn btn-primary uppercase">Create using Online Form</a>
 								<br />
 								<h5>OR</h5>
 
-								<a href="./Images/ParticiaFillable-2021-08.pdf" class="btn btn-primary uppercase">Download a fill-in PDF</a><br /><br />
+								<a href="./Images/PatFillable-2021-08.pdf" class="btn btn-primary uppercase">Download a fill-in PDF</a><br /><br />
 
 							</center>
 
@@ -65,10 +65,10 @@
 								<img src="/images/multiTim-2020-0929.png" alt="The GenderMag Personas" height="100" width="100"></img>
 								<p>Tim represents the opposite end of the facet value ranges from Abi, so Tim helps to complete the "sweep" of considering a wide range of facet values. For full coverage of the spectrum, Tim is a good second choice after Abi.</p>
 								<br>
-								<a href="./customizer.php" class="btn btn-primary uppercase">Create using Online Form</a>
+								<a href="./customizer.php?persona=Tim" class="btn btn-primary uppercase">Create using Online Form</a>
 								<br />
 								<h5>OR</h5>
-								<a href="./Images/TimPersonaFillable-2021-08.pdf" class="btn btn-primary uppercase">Download a fill-in PDF</a><br />
+								<a href="./Images/TimFillable-2021-08.pdf" class="btn btn-primary uppercase">Download a fill-in PDF</a><br />
 							</center>
 
 						</div>

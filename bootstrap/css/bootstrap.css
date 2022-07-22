@@ -4061,6 +4061,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
+  font-family: Arial, Helvetica, sans-serif;
   display: block;
   padding: 0.5rem 1rem;
 }

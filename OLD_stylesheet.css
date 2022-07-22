@@ -16,7 +16,7 @@
 }
 
 .main-title{
-	font-family: 'Merriweather', serif !important;
+	font-family: 'Sans-Serif', serif !important;
 }
 
 .centered{
@@ -27,32 +27,6 @@
 }
 .right{
 	float:right;
-}
-
-/**-------------------------
-Body Styline
-*/
-
-body{
-	font-family: 'Times New Roman', Times, serif !important;
-}
-#nav h1{
-	font-family: 'Times New Roman', Times, serif !important;
-	font-weight: bold;
-}
-
-.nav-link{
-	font-family: Arial, Helvetica, sans-serif !important;
-}
-.nav-item{
-	font-family: Arial, Helvetica, sans-serif !important;	
-}
-h2,h3,h4,h5,h6{
-	font-family: Arial, Helvetica, sans-serif !important;
-}
-
-.btn{
-	font-family: Arial, Helvetica, sans-serif !important;
 }
 
 /*---------------------------------------

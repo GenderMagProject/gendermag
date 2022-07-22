@@ -3,16 +3,17 @@
 <html>
 
   <head>
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132750618-1"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EVCTX3VQB6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      
-      gtag('config', 'UA-132750618-1');
+
+      gtag('config', 'G-EVCTX3VQB6');
     </script>
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="GenderMag, GenderMag Method, GenderMag Heuristics, Cognitive Style Heuristics, Inclusive Design">
     <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">

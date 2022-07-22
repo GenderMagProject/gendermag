@@ -278,13 +278,13 @@
 
   <p><sup id="ref22">[22]</sup> Ann Hergatt Huffman, Jason Whetten, and William H. Huffman. 2013. Using technology in higher education: The influence of gender roles on technology self-efficacy. Computers in Human Behavior 29, 4, 1779-1786.</p>
 
-  <p><sup id="ref23">[23]</sup> William Jernigan, Amber Horvath, Michael Lee, Margaret Burnett, Taylor Cuilty, Sandeep Kuttal, Anicia Peters, Irwin Kwan, Faezeh Bahmani, and Andrew Ko. 2015. A principled evaluation for a principled Idea Garden. In Proceedings of the 2015 IEEE Symposium on Visual Languages and Human-Centric Computing, October 2015. 8 pages.</p>
+  <p><sup id="ref23">[23]</sup> William Jernigan, Amber Horvath, Michael Lee, Margaret Burnett, Taylor Cuilty, Sandeep Kuttal, Anicia Peters, Irwin Kwan, Faezeh Bahmani, and Amy Ko. 2015. A principled evaluation for a principled Idea Garden. In Proceedings of the 2015 IEEE Symposium on Visual Languages and Human-Centric Computing, October 2015. 8 pages.</p>
 
   <p><sup id="ref24">[24]</sup> Caitlin Kelleher. 2009. Barriers to programming engagement. Advances in Gender and Education 1, 5-10.</p>
 
-  <p><sup id="ref25">[25]</sup> Michael Lee and Andrew Ko. 2011. Personifying programming tool feedback improves novice programmers' learning. In Proceedings of the 7th International Workshop on Computing Education Research (ICER'11), 109-116. http://doi.acm.org/10.1145/2016911.2016934 </p>
+  <p><sup id="ref25">[25]</sup> Michael Lee and Amy Ko. 2011. Personifying programming tool feedback improves novice programmers' learning. In Proceedings of the 7th International Workshop on Computing Education Research (ICER'11), 109-116. http://doi.acm.org/10.1145/2016911.2016934 </p>
 
-  <p><sup id="ref26">[26]</sup> Michael Lee, Faezeh Bahmani, Irwin Kwan, Jilian Laferte, Polina Charters, Amber Horvath, Fanny Luor, Jill Cao, Catherine Law, Mihcael Bethwetherick, Sheridan Long, Margaret Burnett, and Andrew Ko. 2014. Principles of a debugging-first puzzle game for computing education. In Proceedings of the 2014 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC'14), 57-64. </p>
+  <p><sup id="ref26">[26]</sup> Michael Lee, Faezeh Bahmani, Irwin Kwan, Jilian Laferte, Polina Charters, Amber Horvath, Fanny Luor, Jill Cao, Catherine Law, Mihcael Bethwetherick, Sheridan Long, Margaret Burnett, and Amy Ko. 2014. Principles of a debugging-first puzzle game for computing education. In Proceedings of the 2014 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC'14), 57-64. </p>
 
   <p><sup id="ref27">[27]</sup> Ewa Luger. 2014. A design for life: Recognizing the gendered politics affecting product design, In CHI Workshop: Perspectives on Gender and Product Design. https://www.sites.google.com/site/technologydesignperspectives/papers</p>
 
